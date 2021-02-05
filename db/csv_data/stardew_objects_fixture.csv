@@ -1,0 +1,25 @@
+object number,name,price,edibility,category type,display name,description,food or drink,misc
+472,Parsnip Seeds,10,-300,Seeds -74,Parsnip Seeds,Plant these in the spring. Takes 4 days to mature.
+473,Bean Starter,30,-300,Seeds -74,Bean Starter,Plant these in the spring. Takes 10 days to mature but keeps producing after that. Grows on a trellis.
+474,Cauliflower Seeds,40,-300,Seeds -74,Cauliflower Seeds,Plant these in the spring. Takes 12 days to produce a large cauliflower.
+475,Potato Seeds,25,-300,Seeds -74,Potato Seeds,Plant these in the spring. Takes 6 days to mature and has a chance of yielding multiple potatoes at harvest.
+476,Garlic Seeds,20,-300,Seeds -74,Garlic Seeds,Plant these in the spring. Takes 4 days to mature.
+477,Kale Seeds,35,-300,Seeds -74,Kale Seeds,Plant these in the spring. Takes 6 days to mature. Harvest with the scythe.
+478,Rhubarb Seeds,50,-300,Seeds -74,Rhubarb Seeds,Plant these in the spring. Takes 13 days to mature.
+479,Melon Seeds,40,-300,Seeds -74,Melon Seeds,Plant these in the summer. Takes 12 days to mature.
+480,Tomato Seeds,25,-300,Seeds -74,Tomato Seeds,Plant these in the summer. Takes 11 days to mature and continues to produce after first harvest.
+481,Blueberry Seeds,40,-300,Seeds -74,Blueberry Seeds,Plant these in the summer. Takes 13 days to mature and continues to produce after first harvest.
+482,Pepper Seeds,20,-300,Seeds -74,Pepper Seeds,Plant these in the summer. Takes 5 days to mature and continues to produce after first harvest.
+483,Wheat Seeds,5,-300,Seeds -74,Wheat Seeds,Plant these in the summer or fall. Takes 4 days to mature. Harvest with the scythe.
+484,Radish Seeds,20,-300,Seeds -74,Radish Seeds,Plant these in the summer. Takes 6 days to mature.
+485,Red Cabbage Seeds,50,-300,Seeds -74,Red Cabbage Seeds,Plant these in the summer. Takes 9 days to mature.
+486,Starfruit Seeds,200,-300,Seeds -74,Starfruit Seeds,Plant these in the summer. Takes 13 days to mature.
+487,Corn Seeds,75,-300,Seeds -74,Corn Seeds,Plant these in the summer or fall. Takes 14 days to mature and continues to produce after first harvest.
+488,Eggplant Seeds,10,-300,Seeds -74,Eggplant Seeds,Plant these in the fall. Takes 5 days to mature and continues to produce after first harvest.
+489,Artichoke Seeds,15,-300,Seeds -74,Artichoke Seeds,Plant these in the fall. Takes 8 days to mature.
+490,Pumpkin Seeds,50,-300,Seeds -74,Pumpkin Seeds,Plant these in the fall. Takes 13 days to mature.
+491,Bok Choy Seeds,25,-300,Seeds -74,Bok Choy Seeds,Plant these in the fall. Takes 4 days to mature.
+492,Yam Seeds,30,-300,Seeds -74,Yam Seeds,Plant these in the fall. Takes 10 days to mature.
+493,Cranberry Seeds,120,-300,Seeds -74,Cranberry Seeds,Plant these in the fall. Takes 7 days to mature and continues to produce after first harvest.
+494,Beet Seeds,10,-300,Seeds -74,Beet Seeds,Plant these in the fall. Takes 6 days to mature.
+495,Spring Seeds,35,-300,Seeds -74,Spring Seeds,An assortment of wild spring seeds.

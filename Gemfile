@@ -25,6 +25,19 @@ gem 'bootsnap', '>= 1.4.4', require: false
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 # gem 'rack-cors'
 
+gem 'grape'
+gem 'grape-entity'
+# Grape::Middleware::Logger 1.7+ should be mounted with +insert_after+ to properly include POST params:
+#
+#   insert_after Grape::Middleware::Formatter, Grape::Middleware::Logger
+# gem 'grape-middleware-logger'
+# gem 'grape-swagger'
+# gem 'grape-swagger-entity'
+# gem 'grape-swagger-representable'
+# gem 'grape-swagger-ui'
+# gem 'grape_logging'
+# gem 'grape_on_rails_routes'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]

@@ -1,0 +1,2 @@
+class StardewObjectsController < ApplicationController
+end

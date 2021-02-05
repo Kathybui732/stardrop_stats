@@ -1,0 +1,2 @@
+class StardewObject < ApplicationRecord
+end
