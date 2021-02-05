@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '3.0.0'
+ruby '2.5.8'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.1.1'
@@ -25,8 +25,8 @@ gem 'bootsnap', '>= 1.4.4', require: false
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 # gem 'rack-cors'
 
-gem 'grape'
-gem 'grape-entity'
+# gem 'grape'
+# gem 'grape-entity'
 # Grape::Middleware::Logger 1.7+ should be mounted with +insert_after+ to properly include POST params:
 #
 #   insert_after Grape::Middleware::Formatter, Grape::Middleware::Logger
@@ -37,6 +37,7 @@ gem 'grape-entity'
 # gem 'grape-swagger-ui'
 # gem 'grape_logging'
 # gem 'grape_on_rails_routes'
+gem 'fast_jsonapi'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
